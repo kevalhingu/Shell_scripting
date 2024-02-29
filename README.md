@@ -42,7 +42,7 @@ Each topic is covered in a separate markdown file for easy navigation and refere
 
 ## Getting Started
 
-To begin your journey, start with the [Introduction](Introduction.md) and follow the sequence of topics as listed. Each markdown file includes detailed explanations and example codes.
+To begin your journey, start with the [Introduction](1.Introduction.md) and follow the sequence of topics as listed. Each markdown file includes detailed explanations and example codes.
 
 ## Contribution
 
